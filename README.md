@@ -42,13 +42,7 @@ Secure Vault is a MERN stack application focused on secure note management with 
 
 ## Register Page
 
-![Register](./screenshots/register.png)
-
----
-
-## Login Page
-
-![Login](./screenshots/login.png)
+![Register Page](./screenshots/register.png)
 
 ---
 
@@ -72,7 +66,7 @@ Secure Vault is a MERN stack application focused on secure note management with 
 
 ## Encrypted Notes in MongoDB
 
-![Encrypted Notes](./screenshots/encrypted-db.png)
+![Encrypted Database](./screenshots/encrypted-db.png)
 
 ---
 
@@ -94,7 +88,14 @@ Secure Vault is a MERN stack application focused on secure note management with 
 
 ```bash
 git clone https://github.com/ricardosanzonetti/Secure-Vault.git
+## Clone repository
+
+```bash
+git clone https://github.com/ricardosanzonetti/Secure-Vault.git
+
 ```
+
+---
 
 ## Install frontend dependencies
 
@@ -103,6 +104,8 @@ cd client
 npm install
 npm run dev
 ```
+
+---
 
 ## Install backend dependencies
 
